@@ -275,6 +275,93 @@
 数据集链接：https://pan.baidu.com/s/16fpNtzpD-DOOKsOfgCU0gg 
 提取码：WHCC 
 
+#### 11、OpenSARShip
+> 数据集介绍
+> 
+>   **数据集背景：**
+>   
+>   OpemSARShip数据集
+    包含1种类型的遥感地物目标
+    提取自Sentinel-1
+    由上海交通大学于2017年发布
+    采用Chip标注格式
+
+
+>   **数据集内容：**
+>   
+>   影像信息：
+>       
+    image number:           41
+    object number:         11346 
+>       
+标注信息：
+1类，共11346 个目标
+
+    ship
+
+
+数据集链接：http://opensar.sjtu.edu.cn/
+
+####### 数据集链接：https://pan.baidu.com/s/16fpNtzpD-DOOKsOfgCU0gg 
+提取码：WHCC 
+
+#### 12、ships in satellite imagery
+> 数据集介绍
+> 
+>   **数据集背景：**
+>   
+>   ships in satellite imagery数据集,包含1种类型的遥感地物目标,提取自Planet,由Planet Team于2017年发布
+
+>   **数据集内容：**
+>   
+>   影像信息：
+>       
+    image size:          80 * 80 * 3
+    image number:           4000
+    objcet number:          1000+
+    pixel resolution:       3m
+
+>       
+标注信息：
+1类，共1000+个目标
+
+    ship
+
+
+############# 数据集链接：https://pan.baidu.com/s/16fpNtzpD-DOOKsOfgCU0gg 
+提取码：WHCC 
+
+#### 13、LEVIR
+> 数据集介绍
+> 
+>   **数据集背景：**
+>   
+>   LEVIR数据集,包含3种类型的遥感地物目标,提取自Google Earth,由北京航天航空大学于2018年发布,采用horizontal bounding boxes (HBB)标注格式
+
+
+>   **数据集内容：**
+>   
+>   影像信息：
+>       
+
+    image size:        800 * 600 * 3
+    image number:  22,000
+    object number:  11,000
+    pixel resolution: 0.2∼1.0m
+
+
+>       
+标注信息：
+3类，共11,000个目标
+
+    airplane
+    ship
+    oilpot
+
+
+############# 数据集链接：https://pan.baidu.com/s/16fpNtzpD-DOOKsOfgCU0gg 
+提取码：WHCC 
+
 
 ### 遥感影像图像分割
 #### Massachusetts Roads
