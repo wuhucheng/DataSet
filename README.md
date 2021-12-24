@@ -819,3 +819,24 @@ v1.5：16类（增加container crane类），共400000±个目标
 
 ### 遥感影像图像分割
 #### Massachusetts Roads
+> 数据集介绍
+> 
+>   **数据集背景：**
+>   
+>   Massachusetts Roads数据集，包含1种类型的遥感地物类型，提取自航空影像，由University of Toronto于2013年发布
+
+>   **数据集内容：**
+>   
+>    影像信息：
+
+    image size:          1500 * 1500 * 3
+    image number:    804
+
+标注信息：
+1类
+road
+
+
+数据集链接：
+提取码：WHCC 
+
